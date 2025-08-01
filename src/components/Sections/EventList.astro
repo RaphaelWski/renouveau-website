@@ -26,12 +26,17 @@ const events = allEvents
 <section class="py-16 bg-gray-50">
   <div class="container">
     <div class="text-center mb-12">
-      <h2 class="text-3xl md:text-4xl font-bold mb-4">Upcoming Events</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mb-4">Événements à venir</h2>
       <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-        Join us for these upcoming events and become part of our community
+        Rejoignez-nous pour ces événements à venir et faites partie de notre communauté
       </p>
     </div>
     
+    {events.length === 0 ? (
+      <div class="text-center text-gray-500 text-lg py-12">
+        Aucun événement à venir
+      </div>
+    ) : (
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       {events.map((event) => (
         <Card
@@ -60,16 +65,16 @@ const events = allEvents
           <p class="text-gray-700 mb-4">{event.data.summary}</p>
           
           <a href={`/events/${event.slug}`} class="text-primary-600 font-medium hover:text-primary-700">
-            Learn More →
+            En savoir plus →
           </a>
         </Card>
       ))}
-    </div>
+    </div>)}
     
     {showViewAll && events.length > 0 && (
       <div class="mt-12 text-center">
         <Button href="/events" variant="outline">
-          View All Events
+          Voir tous les événements
         </Button>
       </div>
     )}

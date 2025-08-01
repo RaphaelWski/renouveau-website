@@ -14,30 +14,30 @@ try {
 // Footer navigation groups
 const footerNavs = [
   {
-    title: "About",
+    title: "À propos",
     items: [
-      { text: "About Us", href: "/about-us" },
-      { text: "I'm New", href: "/im-new" },
-      { text: "Staff", href: "/staff" },
+      { text: "Qui sommes-nous ?", href: "/about-us" },
+      { text: "Nouveau ici ?", href: "/im-new" },
+      { text: "Équipe", href: "/staff" },
       { text: "Contact", href: "/contact" },
     ],
   },
   {
-    title: "Resources",
+    title: "Ressources",
     items: [
-      { text: "Sermons", href: "/sermons" },
-      { text: "Events", href: "/events" },
+      { text: "Prédications", href: "/sermons" },
+      { text: "Événements", href: "/events" },
       { text: "Blog", href: "/blog" },
-      { text: "Ministries", href: "/ministries" },
+      { text: "Ministères", href: "/ministries" },
     ],
   },
   {
-    title: "Connect",
+    title: "Connecter",
     items: [
-      { text: "Giving", href: "/giving" },
-      { text: "Prayer Request", href: "/contact#prayer" },
+      { text: "Faire un don", href: "/giving" },
+      { text: "Sujet de prière", href: "/contact#prayer" },
       { text: "Newsletter", href: "/contact#newsletter" },
-      { text: "Volunteer", href: "/im-new#volunteer" },
+      { text: "Je veux servir", href: "/im-new#volunteer" },
     ],
   },
 ];
@@ -236,23 +236,24 @@ m-43 -90 c-3 -8 -6 -5 -6 6 -1 11 2 17 5 13 3 -3 4 -12 1 -19z"
         </div>
 
         <address class="not-italic mb-4 text-gray-300">
-          <p>123 Main Street</p>
-          <p>Anytown, ST 12345</p>
+          <p>Novotel Demeures de Campagne Orléans Chemins de Sologne</p>
+          <p>2 Rue Honoré de Balzac</p>
+          <p>45100 Orléans</p>
           <p class="mt-2">
-            <a href="tel:+15551234567" class="hover:text-primary-300">
-              (555) 123-4567
+            <a href="tel:+33238000000" class="hover:text-primary-300">
+              (+33) 2 38 00 00 00
             </a>
           </p>
           <p>
             <a href="mailto:info@churchname.org" class="hover:text-primary-300">
-              info@churchname.org
+              contact@renouveau.fr
             </a>
           </p>
         </address>
 
         <!-- Office Hours -->
         <div class="mt-4 text-gray-300">
-          <h4 class="text-sm font-bold mb-2 text-white">Office Hours</h4>
+          <h4 class="text-sm font-bold mb-2 text-white">Horaires d'ouverture</h4>
           {
             OfficeHoursContent ? (
               <div class="text-sm prose prose-sm prose-invert max-w-none [&_h3]:text-white [&_h3]:text-sm [&_h3]:font-bold [&_h3]:mb-2 [&_ul]:list-none [&_ul]:p-0 [&_li]:mb-1 [&_strong]:text-white">
@@ -261,15 +262,13 @@ m-43 -90 c-3 -8 -6 -5 -6 6 -1 11 2 17 5 13 3 -3 4 -12 1 -19z"
             ) : (
               <div class="text-sm">
                 <p>
-                  <strong class="text-white">Mon-Fri:</strong> 9:00 AM - 5:00 PM
+                  <strong class="text-white">Lundi - Vendredi :</strong> 9h00 - 17h00
                 </p>
                 <p>
-                  <strong class="text-white">Saturday:</strong> 9:00 AM - 1:00
-                  PM
+                  <strong class="text-white">Samedi :</strong> 9h00 - 13h00
                 </p>
                 <p>
-                  <strong class="text-white">Sunday:</strong> Closed (except
-                  services)
+                  <strong class="text-white">Dimanche :</strong> Fermé (sauf cultes)
                 </p>
               </div>
             )

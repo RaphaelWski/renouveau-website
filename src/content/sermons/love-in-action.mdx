@@ -9,7 +9,7 @@ videoUrl: "https://www.youtube.com/embed/example101"
 image: "/uploads/sermons/love-in-action.webp"
 summary: "Discover how Jesus' example of servant leadership calls us to love others through practical acts of service and sacrifice."
 tags: ["service", "love", "discipleship"]
-draft: false
+draft: true
 ---
 
 ## Sermon Overview

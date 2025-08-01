@@ -25,9 +25,9 @@ const sermons = allSermons
 <section class="py-16 bg-white">
   <div class="container">
     <div class="text-center mb-12">
-      <h2 class="text-3xl md:text-4xl font-bold mb-4">Recent Sermons</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mb-4">Messages récents</h2>
       <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-        Listen to or watch our latest messages from Sunday services
+        Écoutez ou regardez nos derniers messages des cultes du dimanche.
       </p>
     </div>
     
@@ -68,7 +68,7 @@ const sermons = allSermons
           <p class="text-gray-700 mb-4">{sermon.data.summary}</p>
           
           <a href={`/sermons/${sermon.slug}`} class="text-primary-600 font-medium hover:text-primary-700">
-            Listen Now →
+            Écouter maintenant →
           </a>
         </Card>
       ))}
@@ -77,7 +77,7 @@ const sermons = allSermons
     {showViewAll && sermons.length > 0 && (
       <div class="mt-12 text-center">
         <Button href="/sermons" variant="outline">
-          View All Sermons
+          Voir tous les messages
         </Button>
       </div>
     )}

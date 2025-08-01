@@ -9,7 +9,7 @@ videoUrl: "https://www.youtube.com/embed/example456"
 image: "/uploads/sermons/power-of-worship.webp"
 summary: "Explore the true meaning of worship and how it transforms our relationship with God beyond just musical expression."
 tags: ["worship", "spiritual growth", "music"]
-draft: false
+draft: true
 ---
 
 ## Sermon Overview

@@ -1,30 +1,42 @@
 ---
-name: "Rev. Dr. John Smith"
-title: "Senior Pastor"
-image: "/uploads/staff/john-smith.webp"
-email: "pastor.john@churchname.org"
-phone: "+1-555-0101"
-bio: "Pastor John has been faithfully serving our congregation for over 12 years, bringing wisdom, compassion, and biblical teaching to our community."
+name: "Serge & Pélagie DEGBE"
+title: "Pasteurs principaux"
+image: "/uploads/staff/serge-et-pelagie-degbe.webp"
+email: "serge.degbe@renouveau.fr"
+phone: ""
+bio: "Serge et Pélagie sont les pasteurs fondateurs de l'église Renouveau. Ils ont une riche expérience en formation de disciples et en relation d'aide. Leur ministère est centré sur la maturité chrétienne et la croissance spirituelle."
 order: 1
 draft: false
 ---
 
-Rev. Dr. John Smith has been the Senior Pastor of our church since 2013. He holds a Doctor of Ministry from Seminary University and has over 20 years of pastoral experience.
+Serge et Pélagie sont les pasteurs fondateurs de l'église Renouveau.
 
-## Ministry Philosophy
+## Philosophie du ministère
 
-Pastor John believes in expository preaching, pastoral care, and community engagement. His heart is to see people grow in their relationship with Christ and serve others with love.
+Serge et Pélagie privilégient la prédication biblique, l’accompagnement pastoral et l’engagement communautaire. Leur désir est de voir chacun grandir dans sa relation avec Christ et servir les autres avec amour.
 
-## Areas of Focus
+## Domaines d’action
 
-- Biblical preaching and teaching
-- Pastoral counseling and care
-- Leadership development
-- Community outreach initiatives
-- Vision casting for the church
+- Prédication et enseignement bibliques
+- Accompagnement et soutien pastoral
+- Développement du leadership
+- Initiatives d’action sociale et d’entraide
+- Vision et orientation de l’église
 
-## Personal Life
+## Vie personnelle
 
-Pastor John is married to Sarah, and they have three children. He enjoys reading, hiking, and spending time with his family. He is also an avid supporter of local community programs.
+Serge et Pélagie DEGBE, sont un couple pastoral.
+Dieu les a appelés à créer un cadre de formation, de ressourcement et de restauration permettant au Saint- Esprit d'opérer de réelles transformations dans les vies par la Parole de Dieu.
 
-Contact Pastor John for pastoral care, counseling, or to discuss the vision and direction of our church.
+Ils organisent chaque année deux sessions du séminaire "Réellement libre", et interviennent dans des accompagnements individuels ou de couples.
+
+Ils ont une riche expérience en formation de disciples et en relation d'aide.
+
+Leur ministère est centré sur la maturité chrétienne et la croissance spirituelle.
+
+A travers leur association "Fleuves d'o vives", ils investissent dans l'être humain tout entier (esprit, âme et corps) dans une perspective biblique.
+Ils sont mariés depuis 2004 et sont les heureux parents de trois enfants.
+
+Serge est médecin et excerce en cabinet libéral dans l'agglomération orléanaise. Pélagie est assistante sociale.
+
+N’hésitez pas à contacter Serge & Pélagie pour un accompagnement pastoral, un conseil ou pour échanger sur la vision et la direction de notre église.

@@ -9,7 +9,7 @@ image: {
   alt: "Youth group in discussion"
 }
 tags: ["youth", "ministry", "next generation"]
-draft: false
+draft: true
 ---
 
 Youth ministry is more than just fun activities and games. It's about investing in the next generation of believers and helping young people navigate the challenges of growing up in today's world.

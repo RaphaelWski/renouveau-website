@@ -9,7 +9,7 @@ image: {
   alt: "Person praying with Bible and journal"
 }
 tags: ["prayer", "devotional", "spiritual growth"]
-draft: false
+draft: true
 ---
 
 In our fast-paced world, finding time for prayer and meditation can seem challenging. Yet, it's precisely in these moments of quiet communion with God that we find the peace and guidance we need most.
